@@ -1,6 +1,12 @@
 # cnn-coin-counter
 Um sistema de reconhecimento e soma de moedas em tempo real.
 
+## 📷 Reconhecimento e Contagem
+
+<p align="center">
+  <img alt="Imagem da identificação e contagem" src="https://github.com/DjalmaHenry/cnn-coin-counter/assets/63603061/d921e670-7b2a-40e9-b754-eb729a5cd007" width="50%">
+</p>
+
 ## 💾 Base de dados
 Banco com imagens de moedas de tamanho 224x224:
 1. 1 Real (212 imagens)
